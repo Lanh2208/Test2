@@ -1,0 +1,11 @@
+*{
+	margin :0px;
+	padding: 0px;
+}
+p img:hover
+{
+	border : 2px solid red;
+}
+p img{
+	border: 2px solid white;
+}
